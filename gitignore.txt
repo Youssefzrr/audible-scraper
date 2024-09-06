@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+
+# Logs
+*.log
+
+# CSV files (uncomment if you don't want to track the output file)
+# *.csv
+
+# Chromedriver (if you decide to include it in your repo)
+chromedriver
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
