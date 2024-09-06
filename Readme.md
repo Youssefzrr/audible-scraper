@@ -20,7 +20,7 @@ This Python script scrapes book information from Audible's search results pages 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/audible-scraper.git
+   git clone https://github.com/Youssefzrr/audible-scraper.git
    cd audible-scraper
    ```
 
